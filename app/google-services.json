@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1025906985066",
+    "firebase_url": "https://hackathon-7d8c4.firebaseio.com",
+    "project_id": "hackathon-7d8c4",
+    "storage_bucket": "hackathon-7d8c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025906985066:android:dced48268f61dd18",
+        "android_client_info": {
+          "package_name": "com.tabian.tabfragments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025906985066-pbl1sss5jausgmle9q1ch7rnbhhnkdol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0N1DRVedGbjMfGo1MSGx1mMQi7ZZg0og"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025906985066:android:46c0bfc72bd7210f",
+        "android_client_info": {
+          "package_name": "com.example.tanapon.suthackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025906985066-pbl1sss5jausgmle9q1ch7rnbhhnkdol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0N1DRVedGbjMfGo1MSGx1mMQi7ZZg0og"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
